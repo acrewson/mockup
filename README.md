@@ -5,4 +5,4 @@
 3. As a user, I want to be able to create a wish list of gift items I would like to receive.
 4. As a user, I want to share my wish list with other specific users on the site.
 5. As a user, I want to be able to mark an item as "purchased" on someone else's list (without them seeing the marking).
-6. 
+6. As a user, I want to see which items have been purchased by other people already.
